@@ -46,7 +46,7 @@ public class I18NStrings {
 	
 	public static void main(String[] args) {
 		//printI18NStrings("VIGUERIE");
-	//	printI18NStrings("CAREERCUP");
+
 	
 		getPerms("011?01?1?");
 	}

@@ -1,7 +1,7 @@
 package structures.trees.binary;
 /**
  * 
- * This is a binary tree-- review n-ary trees and make sure to know the pros/cons
+ *TODO review n-ary trees and make sure to know the pros/cons
  * of either in the real world. 
  * 
  * @author shaun.viguerie

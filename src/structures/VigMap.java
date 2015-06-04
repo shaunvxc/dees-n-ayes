@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.Objects;
 
 /**
- * Initial HashMap implementation per practice for GOOGLE
+ * HashMap implementation
  * @author shaun.viguerie
  *
  * @param <K>

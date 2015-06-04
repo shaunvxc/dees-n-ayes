@@ -1,5 +1,8 @@
 package problems;
-
+/**
+ * class to solve the i18nStrings problem
+ * 
+ */
 public class I18NStrings {
 	
 	

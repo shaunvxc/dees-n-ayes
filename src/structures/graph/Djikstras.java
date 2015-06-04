@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 public class Djikstras {
 	
 	/**
-	 * Djikstras Algo -- try to do a MinHeap implementation before the google interview!
+	 * Djikstras Algo -- try to do a MinHeap implementation!
 	 * @param graph
 	 * @param src
 	 */
